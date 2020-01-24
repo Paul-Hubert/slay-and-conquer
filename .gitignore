@@ -1,0 +1,69 @@
+-# ---> C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+bin/*
+bin
+build/*
+build
+*.qmake.stash
+uic_wrapper.bat
+*.blend1
+Makefile*
+*.kdev4
+nbproject
+fantastic-octree
+*.spv
+object_script*
+*.user
+*.cap
+.directory
+qrc_slayandconquer.cpp
+resources/model/samples
+*compile_commands.json
+*.kate-swp
+*.cmake
+*CMakeCache.txt
+*CMakeFiles
+*cmake_install.cmake
+*generate.py
+*.a
+clean.sh
+*c_cpp_properties.json
+*.vscode
+*.yml
+qt5
+slayconquer_plugin_import.cpp
+qt5.zip
+uic_wrapper.sh
+COMPILE_CONFIG.sh
+imgui.ini
+.idea*
+./tags
+deploy
+*.saq

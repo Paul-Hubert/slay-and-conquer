@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        
+        <file>build/shaders/objrender.vert.glsl.spv</file>
+        <file>build/shaders/objrender.frag.glsl.spv</file>
+        
+        <file>resources/model/hex/obj/hex.obj</file>
+        <file>resources/model/hex/obj/hex.mtl</file>
+        <file>resources/model/hex/textures/top.png</file>
+        <file>resources/model/hex/textures/side.png</file>
+        
+        <file>resources/model/skybox/obj/skybox.obj</file>
+        <file>resources/model/skybox/obj/skybox.mtl</file>
+        <file>resources/model/skybox/textures/skybox.png</file>
+        
+        <file>build/shaders/waterrender.vert.glsl.spv</file>
+        <file>build/shaders/waterrender.frag.glsl.spv</file>
+        
+        <file>resources/water/textures/normal.jpg</file>
+        <file>resources/water/textures/dudv.png</file>
+        
+        <file>resources/model/footman/obj/footman.obj</file>
+        <file>resources/model/footman/obj/footman.mtl</file>
+        <file>resources/model/footman/textures/footman_diff.png</file>
+        <file>resources/model/footman/textures/footman_att.png</file>
+        
+        
+        <file>build/shaders/uirender.vert.glsl.spv</file>
+        <file>build/shaders/uirender.frag.glsl.spv</file>
+        
+        <file>resources/fonts/aniron.ttf</file>
+        
+        <file>resources/model/castle/obj/castle.obj</file>
+        <file>resources/model/castle/obj/castle.mtl</file>
+        
+        
+        <file>resources/model/castle/textures/CastleInteriorTexture.jpg</file>
+        <file>resources/model/castle/textures/CastleExteriorTexture.jpg</file>
+        <file>resources/model/castle/textures/TowersDoorsandWindowsTexture.jpg</file>
+        <file>resources/model/castle/textures/GroundandFountainTexture.png</file>
+
+        <file>resources/model/arrow/obj/fleche.obj</file>
+        <file>resources/model/arrow/obj/fleche.mtl</file>
+        <file>resources/model/arrow/textures/bois.jpg</file>
+        <file>resources/model/arrow/textures/bones.jpg</file>
+        
+        <file>resources/audio/victory/victory.mp3</file>
+        
+    </qresource>
+</RCC>
